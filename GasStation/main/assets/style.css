@@ -1,0 +1,20 @@
+p{
+	font-family: Times New Roman;
+	font-size: 15px;
+	padding: 5px;
+	text-align: justify;
+}
+
+div.bold{
+    text-align: center;
+	font-size: 23px;
+	font-weight: bold;
+}
+
+span.bold{
+    font-weight: bold;
+    border-bottom: 2px solid;
+}
+body{
+
+}

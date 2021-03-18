@@ -1,0 +1,59 @@
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="activity_title_home">История</string>
+    <string name="msg_no_notes">История пуста</string>
+    <string name="lbl_new_note_title">Новая запись</string>
+    <string name="lbl_edit_note_title">Редактировать запись</string>
+    <string name="hint_enter_note">Заправлено, л</string>
+    <string name="hint_enter_note2">Цена за литр</string>
+    <string name="pref_display_grid">display_grid</string>
+    <string name="display_in_grid">Display in grid</string>
+    <string name="display_all">Display All</string>
+    <string name="choose_a_category">Choose a category</string>
+
+    <string-array name="categories">
+        <item>Лукойл</item>//Salads
+        <item>Роснефть</item>//Starters
+        <item>Газпром</item>//Entrees
+        <item>Татнефть</item>//Desserts
+        <item>Shell</item>//Drinks
+    </string-array>
+
+    <string-array name="activityM">
+        <item>Газпром</item>
+        <item>Газпром</item>
+        <item>Газпром</item>
+        <item>Лукойл</item>
+        <item>Лукойл</item>
+        <item>Лукойл</item>
+        <item>Лукойл</item>
+        <item>Апельсин</item>
+        <item>Апельсин</item>
+        <item>Shell</item>
+        <item>Shell</item>
+        <item>Shell</item>
+        <item>Tatneft</item>
+        <item>Tatneft</item>
+        <item>Tatneft</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>просп. Победы, 120А, Пенза</item>
+        <item>Окружная ул., 113А/74А, Пенза</item>
+        <item>Бекешская ул., 31А, Пенза</item>
+        <item>ул. Калинина, 150А, Пенза</item>
+        <item>Дизельная ул., 3, Пенза</item>
+        <item>Окружная ул., 298, Пенза</item>
+        <item>ул. Рябова, 1К, Пенза</item>
+        <item>ул. Измайлова, 58, Пенза</item>
+        <item>ул. Ворошилова, 2Б, Пенза</item>
+        <item>Бийская ул., 1П, Пенза</item>
+        <item>Стрельбищенская ул., 23, Пенза</item>
+        <item>просп. Строителей, 11Д, Пенза</item>
+        <item>Сурская ул., 24, Пенза</item>
+        <item>ул. Беляева, 47, Пенза</item>
+        <item>ул. Каракозова, 57А, Пенза</item>
+
+
+    </string-array>
+</resources>
